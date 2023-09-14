@@ -1,0 +1,4 @@
+#Key and value types
+#Thu Sep 14 13:31:45 KST 2023
+valueType=java.util.Map
+keyType=java.lang.String
